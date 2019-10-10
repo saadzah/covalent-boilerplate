@@ -1,5 +1,5 @@
 {
-  "name": "nordea-fatca-crs",
+  "name": "covalent-boilerplate",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -12,14 +12,24 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~7.2.0",
+    "@angular/cdk": "~7.1.1",
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
     "@angular/core": "~7.2.0",
     "@angular/forms": "~7.2.0",
+    "@angular/material": "^7.1.1",
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "@covalent/core": "^2.1.1",
+    "@covalent/dynamic-forms": "^2.1.1",
+    "@covalent/echarts": "^2.1.0",
+    "@covalent/highlight": "^2.1.1",
+    "@covalent/http": "^2.1.1",
+    "@covalent/markdown": "^2.1.1",
     "core-js": "^2.5.4",
+    "echarts": "^4.3.0",
+    "hammerjs": "^2.0.8",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
